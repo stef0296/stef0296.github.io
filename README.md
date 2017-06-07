@@ -1,2 +1,4 @@
 # stef0296.github.io
-A personal website about myself.
+This is a personal website.
+Nothing much to see here.
+Feel free to look around anyways though
