@@ -51,7 +51,7 @@ height:25px;
 	</style>
 </head>
 <body>
-<nav class="nav"></nav>
+
 <table>
 		<tr>
 			<td>
@@ -68,7 +68,7 @@ height:25px;
 			</td>
 		</tr>
 	</table>
-			
+	<nav class="nav">dfaeohfeoh</nav>		
 <footer>
 	Copyright &copy; 2017 <a href="stef0296.github.io">stef0296.github.io</a>
 </footer>
