@@ -2,6 +2,13 @@
   text-align: center;
 }
 
+#dp{
+  padding-left: 26%;
+  padding-top: 15%;
+  height: 25%;
+  width: 50%;
+}
+
 .div1{
   float: left;
   background-color:rgba(255,255,255,0.5);
