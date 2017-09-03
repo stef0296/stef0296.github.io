@@ -4,6 +4,15 @@
   margin-left: 0.5%;
   height: 100%;
   width: 79.5%;
+  overflow-y: scroll;
+}
+
+::-webkit-scrollbar {
+    display: none; 
+}
+
+::-moz-scrollbar {
+    display: none;
 }
 
 .title_head{
